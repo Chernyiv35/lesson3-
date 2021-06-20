@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    
+}
+
+p {
+
+color: rgb(51, 45, 45) ; 
+}
+
+.clearfix::after{
+    display: block;
+    content: "";
+    clear: both;
+  }
+
+
+.banner {
+    background-color: rgb(202, 191, 212);
+    padding: 100px;
+    
+    
+}
+
+
+
+
+.left {
+    font-size: 16px;
+    width: 50%;
+    float: left ; 
+    
+}
+
+.right1 {
+    float: left ;
+    width: 25%;
+    padding: 20px;
+    
+}
+    
+
+
+
+
+ 
+
+
+
+
+.btn\ {
+    color : white ;
+    transition: 0.32 ;
+}
+
+.btn:hover {
+
+color: red ;
+
+}
+
+.btn {
+    display: inline-block; 
+   
+    color: lightcoral; 
+    padding: 1rem 3rem; 
+    margin-top: 30px;
+    text-decoration: none; 
+    border-radius: 3px; 
+    border: 2px solid  ;
+   
+   }
+
+ /*  div {
+    display: block;
+
+}
+ */
+img:hover {
+    border: 3px solid #ffffff;
+    border-radius: 10px; 
+
+}
