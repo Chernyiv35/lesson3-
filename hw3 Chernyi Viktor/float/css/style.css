@@ -36,9 +36,16 @@ color: rgb(51, 45, 45) ;
     
 }
 
+.right {
+    float: left ;
+    width: 50%;
+    padding: 20px;
+    
+}
+
 .right1 {
     float: left ;
-    width: 25%;
+    width: 50%;
     padding: 20px;
     
 }
